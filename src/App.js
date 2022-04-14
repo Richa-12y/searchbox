@@ -15,7 +15,7 @@ function App() {
   //       item.last_name.toLowerCase().includes(query) ||
   //       item.email.toLowerCase().includes(query)
   //   );
-  // };
+  //};
 
   const search = (data) => {
     return data.filter((item) =>
